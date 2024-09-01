@@ -1,0 +1,1 @@
+-{@user} seja bem vindo
